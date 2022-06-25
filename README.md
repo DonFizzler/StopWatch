@@ -5,7 +5,7 @@
 ```py
 Timer = StopWatch()
 Timer.Start()
-# Your code ehre
+# Your code here
 Timer.Stop()
 print(f"Elapsed time: {Timer.Elapsed} MS")
 ```
