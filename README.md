@@ -1,7 +1,5 @@
 # Simple Python StopWatch
 
-> How it works
-
 ## Basic usage for StopWatch
 
 ```py
@@ -15,7 +13,11 @@ print(f"Elapsed time: {Timer.Elapsed} MS")
 ## Functions
 
 > Start
+> 
 > Stop
+> 
 > Reset
+> 
 > Restart
+> 
 > StartNew
